@@ -69,6 +69,7 @@ This document contains a hand-picked selection of educational materials intended
 * [HackerNews](https://news.ycombinator.com/)
 * [HackerNoon](https://hackernoon.com/)
 * [Medium](https://medium.com/)
+* [Codrops](https://tympanus.net/codrops/collective/)
 
 ### Websites to learn from
 
@@ -77,3 +78,5 @@ This document contains a hand-picked selection of educational materials intended
 * [Pluralsight](https://www.pluralsight.com/)
 * [Udacity](https://eu.udacity.com/)
 * [Udemy](https://www.udemy.com/)
+* [Codrops tutorials](https://tympanus.net/codrops/category/tutorials/)
+* [Frontend masters](https://frontendmasters.com/books/front-end-handbook/2018/)
