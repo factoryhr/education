@@ -20,6 +20,30 @@ This document contains a hand-picked selection of educational materials intended
 * [Unit Test Frameworks](https://www.amazon.com/Unit-Test-Frameworks-Paul-Hamill/dp/0596006896/ref=sr_1_1?s=books&ie=UTF8&qid=1523959950&sr=1-1&keywords=Unit+Test+Frameworks+-+Paul+Hamill) by Paul Hamill
 * [Continuous Integration, Improving Software Quality and Reducing Risk](https://www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380/ref=sr_1_1?s=books&ie=UTF8&qid=1523959971&sr=1-1&keywords=Continuous+Integration%2C+Improving+Software+Quality+and+Reducing+Risk+-+Paul+Duvall) by Paul Duvall
 
+## Android 
+
+### Websites to learn from
+
+* [Android hive](https://www.androidhive.info/)
+* [Android developer portal with tools, libraries, and apps](https://android-arsenal.com/)
+* [Kotlin](https://kotlinlang.org/)
+* [Android weekly](http://androidweekly.net/)
+* [Android developers blog](https://android-developers.googleblog.com/)
+
+### Youtube materials
+* [Android Tutorial for Beginners](https://www.youtube.com/watch?v=hzrGAZnMOMQ&list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa)
+* [Android Material Design Tutorial](https://www.youtube.com/watch?v=h57QpXp2TRg&list=PLonJJ3BVjZW6CtAMbJz1XD8ELUs1KXaTD)
+* [Jake Wharton videos](https://www.youtube.com/watch?v=YeEgCRIGS2E&list=PLlIuwjGRHc4sQfRzHQnie13gi9BbEVSzh)
+* [Android developers](https://www.youtube.com/user/androiddevelopers)
+
+### Android Libraries
+* [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)
+* [Dagger](https://google.github.io/dagger/)
+* [Retrofit](http://square.github.io/retrofit/)
+* [Butterknife](https://github.com/JakeWharton/butterknife)
+* [Realm](https://realm.io/docs/java/latest/)
+
+
 ## Back-end
 
 ### Websites to learn from
