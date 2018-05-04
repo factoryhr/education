@@ -2,6 +2,12 @@
 
 This document contains a hand-picked selection of educational materials intended to keep you up to date with trends and topics in the IT industry.
 
+## Table of contents
+
+* [Frontend](frontend.md)
+* [Backend](backend.md)
+* [Android](android.md)
+
 ## System Administration and Dev-Ops
 
 ### Websites to learn from
@@ -50,10 +56,3 @@ This document contains a hand-picked selection of educational materials intended
 * [Udemy](https://www.udemy.com/)
 * [Codrops tutorials](https://tympanus.net/codrops/category/tutorials/)
 * [Frontend masters](https://frontendmasters.com/books/front-end-handbook/2018/)
-
-## Table of contents
-
-* [Frontend](frontend.md)
-* [Backend](backend.md)
-* [Android](android.md)
-
