@@ -53,7 +53,7 @@ This document contains a hand-picked selection of educational materials intended
 
 ## Table of contents
 
-[Frontend](frontend.md)
-[Backend](backend.md)
-[Android](android.md)
+* [Frontend](frontend.md)
+* [Backend](backend.md)
+* [Android](android.md)
 
