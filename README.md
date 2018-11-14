@@ -7,6 +7,7 @@ This document contains a hand-picked selection of educational materials intended
 * [Frontend](frontend.md)
 * [Backend](backend.md)
 * [Android](android.md)
+* [iOS](ios.md)
 
 ## System Administration and Dev-Ops
 
