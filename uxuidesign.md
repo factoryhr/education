@@ -7,7 +7,7 @@
 * [Medium - UX topic](https://medium.com/topic/ux)
 
 ### UX/UI design tools & courses
-* [UI design tools and video courses (https://learnux.io/)
+* [UI design tools and video courses](https://learnux.io/)
 
 ### Youtube materials
 * [AJ&Smart - better products, faster](https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw)
